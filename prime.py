@@ -1,6 +1,6 @@
 """
 prime.py -- Write the application code here
-Devon Singh
+Devon Singh Assignment 3 Prime Factors - June 17, 2025
 """
 #This code will be used to return an integer for the purposes of test_prime.py
 def generate_prime_factors(number):
